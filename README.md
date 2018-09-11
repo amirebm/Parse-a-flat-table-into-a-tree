@@ -16,3 +16,7 @@ https://www.sitepoint.com/hierarchical-data-database/
 Clusure Table:
 https://coderwall.com/p/lixing/closure-tables-for-browsing-trees-in-sql
 https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-closure-tables/
+
+PathEnumeration:
+http://lab.kochlein.com/FertileForest/models/PathEnumeration
+
